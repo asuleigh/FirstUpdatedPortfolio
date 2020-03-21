@@ -7,7 +7,7 @@ Soon to be a regularly updated professional portfolio
 [GitHub Repo](https://github.com/asuleigh/ProfessionalPortfolio)
 
 ### GIF
-![Gif]()
+![Gif](portfolioGIF.gif)
 
 <hr>
 
