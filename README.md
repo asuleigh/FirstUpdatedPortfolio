@@ -1,10 +1,10 @@
-# Amanda Surber's Portfolio
+# [Amanda Surber's Portfolio](https://asuleigh.github.io/FirstUpdatedPortfolio/)
 Soon to be a regularly updated professional portfolio
 
 ### LINKS
-[Portfolio](https://asuleigh.github.io/ProfessionalPortfolio/)
+[Portfolio](https://asuleigh.github.io/FirstUpdatedPortfolio/)
 <br>
-[GitHub Repo](https://github.com/asuleigh/ProfessionalPortfolio)
+[GitHub Repo](https://github.com/asuleigh/FirstUpdatedPortfolio)
 
 ### GIF
 ![Gif](portfolioGIF.gif)
